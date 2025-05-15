@@ -5,9 +5,9 @@
 Чтобы протестировать модель, выполните следующие шаги:
 
 1. **Перейдите по ссылке**:  
-   [GitHub проекта](https://github.com/glebabas/toxicruscomms-model.git)
+   [Модель на HuggingFace](https://huggingface.co/glebabas/toxic_comments_model)
 
-2. **Нажмите кнопку** `Use this model` (в разделе "How to use" или аналогичном)
+2. **Нажмите кнопку** `Use this model` 
 
 3. **Откройте в Kaggle**:  
    - Можно использовать через Kaggle Notebooks  
